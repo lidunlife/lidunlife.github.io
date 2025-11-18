@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(33, 33, 33, 0.535);
+    font-family: Arial, sans-serif;
+    margin: 30px 35px;
+    
+}
+b{
+    color : yellow;
+}
+hr{
+    border: 2px solid #ccc;
+    margin: 20px 0;
+}
+h2{
+    color: #f1d30e;
+}
+.mood{
+    display: flex;
+    gap: 30px;
+    box-sizing: border-box;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #0fedf4;
+}
